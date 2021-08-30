@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Task1.Contract.Weather;
+using Task1.Business.Model;
 
 namespace Task1.Business.Interface
 {
